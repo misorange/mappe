@@ -9,4 +9,5 @@ export default defineConfig({
     strictPort: false,
     open: true,
   },
+  base: '/mappe/',
 });
