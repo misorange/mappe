@@ -67,7 +67,7 @@ const Projects: React.FC = () => {
                         課題管理や行事把握等を効率的に行うことができます。
                     </p>
                     <a
-                        href="https://github.com/your-repo-link" // 実際のGitHubリポジトリのリンクに置き換えてください
+                        href="https://github.com/misorange/Organisator" // 実際のGitHubリポジトリのリンクに置き換えてください
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block px-6 py-3 bg-green-600 text-white font-semibold text-lg rounded-lg shadow-md hover:bg-green-700 transition duration-300"
