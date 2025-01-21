@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://miorange.github.io/mappe",
   "scripts": {
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
